@@ -17,11 +17,7 @@ To explore the Titanic dataset using descriptive statistics and visualizations t
 - seaborn
 - matplotlib
 
-## 📂 Files Included
-- `eda_titanic.ipynb`: Jupyter Notebook
+
 - `titanic_cleaned.csv`: Dataset from Task 1
 - `screenshots/`: Images from visualizations
 
-
-## 📤 Submission
-GitHub repo submitted for AI/ML Internship Task 2.
